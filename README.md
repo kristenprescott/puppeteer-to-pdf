@@ -1,12 +1,18 @@
 Getting Started:
 
+Clone the repository to your local computer:
+
+```shell
+git clone https://github.com/kristenprescott/puppeteer-to-pdf.git
+```
+
 Install packages:
 
 ```shell
 npm i
 ```
 
-Then, start the server:
+Start the server:
 
 ```shell
 npm run start
